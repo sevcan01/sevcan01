@@ -7,9 +7,9 @@ I am currently learning HTML, CSS, and JavaScript through a 6-month course, and 
 
 Throughout this course, I have been challenged to create various projects, including websites and interactive web applications. Each project has allowed me to apply my newfound knowledge of HTML, CSS, and JavaScript in unique and creative ways. :100:
 
-Here are some ideas to get you started:
-
-
 - 📫 How to reach me: swcnatcn@gmail.com
-- ⚡ Fun fact: html, css, bootstrap, java script
+
+
+
+
 
