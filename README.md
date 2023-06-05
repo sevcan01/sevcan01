@@ -1,13 +1,33 @@
-### Hi there 👋
+**sevcan01/sevcan01`README.md`
+
+Hi there 👋
+
+🚀 Who Am I?
+
+Hi, I'm Sevcan I'm an expert in frontend development, specializing in HTML, CSS, React, and JavaScript. I build interactive and user-friendly websites and applications using these technologies. I'm creative, problem-solving oriented, and focused on delivering projects with great user experiences.
+
+🌱 My Skills
+
+Here are some key highlights of my frontend development skills:
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Responsive Design
+
+📫 Contact Me
+
+You can reach out to me on the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/sevcan-atacan/)
+- [E-mail](swcnatcn@gmail.com)
 
 
-**sevcan01/sevcan01`README.md`😶‍🌫️
 
-I am currently learning HTML, CSS, and JavaScript through a 6-month course, and I am having a lot of fun creating new projects. As someone who is new to web development, I am excited about the endless possibilities that come with mastering these skills. :star_struck:
 
-Throughout this course, I have been challenged to create various projects, including websites and interactive web applications. Each project has allowed me to apply my newfound knowledge of HTML, CSS, and JavaScript in unique and creative ways. :100:
 
-- 📫 How to reach me: swcnatcn@gmail.com
+
 
 
 
