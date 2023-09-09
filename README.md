@@ -14,6 +14,7 @@ Here are some key highlights of my frontend development skills:
 - CSS3
 - JavaScript
 - React
+- React Native
 - Responsive Design
 
 📫 Contact Me
