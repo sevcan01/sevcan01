@@ -15,6 +15,8 @@ Here are some key highlights of my frontend development skills:
 - JavaScript
 - React
 - React Native
+- TypeScript
+- Next.js
 - Responsive Design
 
 📫 Contact Me
