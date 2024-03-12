@@ -4,7 +4,7 @@ Hi there 👋
 
 🚀 Who Am I?
 
-Hi, I'm Sevcan I'm an expert in frontend development, specializing in HTML, CSS, React, and JavaScript. I build interactive and user-friendly websites and applications using these technologies. I'm creative, problem-solving oriented, and focused on delivering projects with great user experiences.
+Hi, I'm Sevcan I'm an expert in frontend development, specializing in HTML, CSS, JavaScript,  React | React Native. I build interactive and user-friendly websites and applications using these technologies. I'm creative, problem-solving oriented, and focused on delivering projects with great user experiences.
 
 🌱 My Skills
 
